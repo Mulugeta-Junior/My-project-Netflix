@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c87c8c7b.css",
-    "main.js": "/static/js/main.94a9203d.js",
-    "static/media/Netflixlogo.png": "/static/media/Netflixlogo.f4070143e1f521da82a1.png",
-    "index.html": "/index.html",
-    "main.c87c8c7b.css.map": "/static/css/main.c87c8c7b.css.map",
-    "main.94a9203d.js.map": "/static/js/main.94a9203d.js.map"
+    "main.css": "/Amazon-front/static/css/main.69869e9c.css",
+    "main.js": "/Amazon-front/static/js/main.7b564633.js",
+    "static/media/10004.jpg": "/Amazon-front/static/media/10004.2f5cc63b7e4512dd2789.jpg",
+    "static/media/10005.jpg": "/Amazon-front/static/media/10005.98ba7e837fbf9329bd4b.jpg",
+    "static/media/10002.jpg": "/Amazon-front/static/media/10002.156cdd31675552944b28.jpg",
+    "static/media/10001.jpg": "/Amazon-front/static/media/10001.805821d23a3f63566f17.jpg",
+    "static/media/10003.jpg": "/Amazon-front/static/media/10003.af535717a7579eabdac4.jpg",
+    "static/media/10006.jpg": "/Amazon-front/static/media/10006.225aaef918f59e5de14a.jpg",
+    "index.html": "/Amazon-front/index.html",
+    "main.69869e9c.css.map": "/Amazon-front/static/css/main.69869e9c.css.map",
+    "main.7b564633.js.map": "/Amazon-front/static/js/main.7b564633.js.map"
   },
   "entrypoints": [
-    "static/css/main.c87c8c7b.css",
-    "static/js/main.94a9203d.js"
+    "static/css/main.69869e9c.css",
+    "static/js/main.7b564633.js"
   ]
 }
